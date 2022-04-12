@@ -9,4 +9,4 @@ const express = require('express'),
       app.listen(port,()=> console.log(`listening on port ${port}`));
       //https://solvedudar.in/#98078654323?student=Dudar=https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg
      // https://solvedudar.in/#klji90?student=Abhishek%singh=https://freevideolectures.com/blog/wp-content/uploads/2016/01/21.jpg
-     //https://edumaxe.in/#$23456?teacher=Abhishek Singh=https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg
+     //https://solvedudar.in/#09890178?teacher=Abhishek Singh=https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg
